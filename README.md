@@ -1,8 +1,8 @@
-Hi there 👋 I am Urooj Zeeshan
+# Hi there 👋 I am Urooj Zeeshan
 
 I'm a 2nd-year computer science student with a strong focus on building my skills in software development and data science. My long-term goal is to join a leading tech company and contribute to cutting-edge projects.
 
-My Skills & Interests 🛠️ :
+## My Skills & Interests 🛠️ :
 
 Languages: Java, Python, C++, HTML, CSS
 
@@ -12,7 +12,7 @@ Object-Oriented Programming (OOP): Proficient in OOP principles and design patte
 
 Data Science & Machine Learning: Learning key libraries including NumPy, Pandas, and Matplotlib. Actively exploring the fundamentals of Machine Learning (ML) and Artificial Intelligence (AI).
 
-My Projects and Code 🚀 :
+## My Projects and Code 🚀 :
 
 DSA in Java: A collection of my LeetCode solutions and other DSA problem implementations. This demonstrates my problem-solving skills and commitment to consistent practice.
 
@@ -20,14 +20,14 @@ Data Science & Machine Learning: I am exploring different datasets on Kaggle and
 
 I am currently building my portfolio and will be adding new projects soon!
 
-Let's Connect 🤝
+## Let's Connect 🤝
 GitHub: @uroojzaidi709
 
 Email: urooj.zaidi777@gmail.com
 
 LinkedIn: www.linkedin.com/in/urooj-zeeshan-966005279
 
-💡 Fun fact: 
+## 💡 Fun fact: 
 - I love the challenge of complex puzzles, and coding feels like the ultimate game where every solution brings a new discovery.
 
 - ---
