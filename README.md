@@ -1,4 +1,4 @@
-# Hi there 👋 I am Urooj Zeeshan
+# Hi there 👋 
 
 I'm a 2nd-year computer science student with a strong focus on building my skills in software development and data science. My long-term goal is to join a leading tech company and contribute to cutting-edge projects.
 
