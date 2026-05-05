@@ -20,13 +20,6 @@ Data Science & Machine Learning: I am exploring different datasets on Kaggle and
 
 I am currently building my portfolio and will be adding new projects soon!
 
-## Let's Connect 🤝
-GitHub: @uroojzaidi709
-
-Email: urooj.zaidi777@gmail.com
-
-LinkedIn: www.linkedin.com/in/urooj-zeeshan-966005279
-
 ## 💡 Fun fact: 
 - I love the challenge of complex puzzles, and coding feels like the ultimate game where every solution brings a new discovery.
 
